@@ -1,5 +1,5 @@
 def calcular_temperatura_promedio(ciudades_temperaturas):
-    # temperaturas promedio por ciudad
+    # temperaturas promedio por cada ciudad
     promedio_por_ciudad = {}
 
     # Iterar sobre cada ciudad
