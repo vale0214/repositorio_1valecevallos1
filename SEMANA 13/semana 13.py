@@ -1,9 +1,9 @@
-def calcular_temperatura_promedio(ciudades_temperaturas):
+def calcular_temperatura_promedio(ciudades_temperatura):
     # temperaturas promedio por cada ciudad
     promedio_por_ciudad = {}
 
     # Iterar sobre cada ciudad
-    for ciudad, semanas in ciudades_temperaturas.items():
+    for ciudad, semanas in ciudades_temperatura.items():
         total_temperaturas = 0
         dias_totales = 0
 
